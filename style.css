@@ -36,6 +36,30 @@ padding-bottom: 26px;
     padding-left: 250px;
 
 }
+.homepage_QuoteText{
+   font-size: 35px;
+    line-height: 106%;
+    font-family: "Reaver", serif;
+    letter-spacing: 6px;
+    font-weight: 600;
+    color: #ffffffee;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 20px #000000;
+    padding-left: 101px;
+}
+ .homepage_QuoteCredit_gcx17 {
+    font-size: 20px;
+    font-family: "Radiance", sans-serif;
+    letter-spacing: 2px;
+    color: #ffffff90;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    text-transform: uppercase;  
+    padding-left: 101px;  
+
+
+}
 footer{
   background-color: #bdc7c9;
 }
