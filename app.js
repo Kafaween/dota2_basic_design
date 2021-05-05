@@ -1,9 +1,22 @@
-var userCar = prompt('Whats your favourite hero tinker or invoker??')
+var userCar = prompt('choose your hero tinker or invoker??')
 
 if (userCar === 'tinker') {
   document.write("<p> its tinker </p>")
 } else if (userCar === 'invoker') {
   document.write("<p> its invoker </p>")
 } else {
-  alert('I think that a hard one')
+  alert('you know wich one dont run away')
 }
+
+
+
+confirm("you made the right disecion");
+
+
+alert("gg wp");
+
+
+
+
+
+
